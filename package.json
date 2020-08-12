@@ -1,0 +1,24 @@
+{
+  "name": "Sample-SB-Js",
+  "version": "1.0.0",
+  "description": "Its an example for a Discord Selfbot in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fweak/Sample-SB-Js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fweak/Sample-SB-Js/issues"
+  },
+  "homepage": "https://github.com/Fweak/Sample-SB-Js#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "discord.js": "^11.5.1"
+  }
+}
