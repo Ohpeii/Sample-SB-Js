@@ -1,0 +1,3 @@
+module.exports = function (client, message, args) {
+    console.log("This is an example.")
+}
